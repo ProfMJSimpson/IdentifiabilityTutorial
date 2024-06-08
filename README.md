@@ -6,9 +6,9 @@ These worksheets are to be presented at the 2024 SIAM Life Sciences Conference i
 
 Newton.ipynb: Jupyter notebook for calculations in Section 2: Modelling with ODEs
 
-Newton.ipynb: Jupyter notebook for calculations in Section 2: Modelling with ODEs
+PDEAdditive.ipynb: Jupyter notebook for calculations in Section 3 with addivie Gaussian noise: Modelling with PDEs
 
-Newton.ipynb: Jupyter notebook for calculations in Section 2: Modelling with ODEs
+PDELogNormal.ipynb: Jupyter notebook for calculations in Section 3 with multiplicativ log normal noise: Modelling with PDEs
 
 Newton.ipynb: Jupyter notebook for calculations in Section 2: Modelling with ODEs
 
