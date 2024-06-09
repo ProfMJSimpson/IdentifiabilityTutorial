@@ -10,5 +10,6 @@ PDEAdditive.ipynb: Jupyter notebook for calculations in Section 3 with addivie G
 
 PDELogNormal.ipynb: Jupyter notebook for calculations in Section 3 with multiplicativ log normal noise: Modelling with PDEs
 
-Newton.ipynb: Jupyter notebook for calculations in Section 2: Modelling with ODEs
+BVP.ipynb: Jupyter notebook for calculations in Section 4 with the standard model parameterization: Modelling with a BVP: Dealing with non-identifiability
 
+BVP.ipynb: Jupyter notebook for calculations in Section 4 with thee re-scaled model parameterization: Modelling with a BVP: Dealing with non-identifiability
