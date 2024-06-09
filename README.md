@@ -12,4 +12,4 @@ PDELogNormal.ipynb: Jupyter notebook for calculations in Section 3 with multipli
 
 BVP.ipynb: Jupyter notebook for calculations in Section 4 with the standard model parameterization: Modelling with a BVP: Dealing with non-identifiability
 
-BVP.ipynb: Jupyter notebook for calculations in Section 4 with thee re-scaled model parameterization: Modelling with a BVP: Dealing with non-identifiability
+BVP_Rescaled.ipynb: Jupyter notebook for calculations in Section 4 with thee re-scaled model parameterization: Modelling with a BVP: Dealing with non-identifiability
