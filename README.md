@@ -13,3 +13,5 @@ PDE_Lognormal.ipynb: Jupyter notebook for calculations in Section 3 with multipl
 BVP.ipynb: Jupyter notebook for calculations in Section 4 with the standard model parameterization: Modelling with a BVP: Dealing with non-identifiability.
 
 BVP_Rescaled.ipynb: Jupyter notebook for calculations in Section 4 with thee re-scaled model parameterization: Modelling with a BVP: Dealing with non-identifiability.
+
+This article is being revised for publication in SIAM Review after an initial round of referee reports (February, 2025).
