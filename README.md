@@ -2,7 +2,7 @@
 
 This repository contains several Jupyter notebooks with Julia code that are associated with "Parameter identifiability, parameter estimation and model prediction for differential equation models" by Matthew J Simpson and Ruth E Baker.  
 
-These worksheets are to be presented at the 2024 SIAM Life Sciences Conference in Portland, Oregon.  A write-up of the results are available on the arXiv at https://arxiv.org/abs/2405.08177
+These worksheets were presented as a minitutorial at the 2024 SIAM Life Sciences Conference in Portland, Oregon.  
 
 ODE.ipynb: Jupyter notebook for calculations in Section 2: Modelling with ODEs.
 
@@ -14,4 +14,4 @@ BVP.ipynb: Jupyter notebook for calculations in Section 4 with the standard mode
 
 BVP_Rescaled.ipynb: Jupyter notebook for calculations in Section 4 with thee re-scaled model parameterization: Modelling with a BVP: Dealing with non-identifiability.
 
-This article is being revised for publication in SIAM Review after an initial round of referee reports (February, 2025).
+A summary write-up of the results is available on the arXiv at https://arxiv.org/abs/2405.08177 This preprint is being revised for publication in SIAM Review after an initial round of referee reports (February, 2025).
