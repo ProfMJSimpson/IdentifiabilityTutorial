@@ -14,6 +14,6 @@ BVP.ipynb: Jupyter notebook containing Jula code for the calculations in Section
 
 BVP_Rescaled.ipynb: Jupyter notebook containing Jula code for the calculations in Section 4 with the re-scaled model parameterization: Modelling with a BVP: Dealing with non-identifiability.
 
-These codes were written in Julia within the Jupyter notebook format.  Codes presented within the Python folder are analagous codes converted to python.   We suggest working with the Julia codes in the first instance.
+These codes were written in Julia within the Jupyter notebook format.  Notebooks within the Python folder are analagous codes that have been re-written in python.   We suggest working with the Julia codes in the first instance.
 
-A summary write-up of the results is available on the arXiv at https://arxiv.org/abs/2405.08177 This preprint is being revised for publication in SIAM Review after an initial round of referee reports (February, 2025).
+A summary write-up of the results is available on the arXiv at https://arxiv.org/abs/2405.08177 This preprint has been revised for publication in SIAM Review after an initial round of referee reports (February, 2025).
